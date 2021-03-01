@@ -13,8 +13,8 @@ cd <directory>
 pip install -r requirements.txt
 ```
 
-once the environment is activated, you have to run 
-```bash
+once the environment is activated and you installed the requirements, you have to run 
+```python
 python dwnld.py
 ```
 
