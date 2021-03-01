@@ -5,8 +5,12 @@ This is just a simple python script that helps you to download audios of videos 
 ### How to use
 ```bash
 git clone https://github.com/ShimronAlakkal/Youtube-Video-Audio-Downloader/
+
 cd <directory>
+
 .\env\scripts\activate
+
+ pip install -r requirements.txt
 ```
 
 once the environment is activated, you have to run 
