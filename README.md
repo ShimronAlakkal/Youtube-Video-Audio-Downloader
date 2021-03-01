@@ -10,7 +10,7 @@ cd <directory>
 
 .\env\scripts\activate
 
- pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 once the environment is activated, you have to run 
